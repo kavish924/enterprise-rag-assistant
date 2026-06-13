@@ -1,0 +1,4 @@
+what is machine learning?
+what is supervised learning?
+what is reinforcement learning?
+
